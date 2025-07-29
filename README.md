@@ -83,7 +83,7 @@ Replace **MIT** and **pankajyadavdevops** with the appropriate license and your 
 
 | Name | Source | Version |
 |------|--------|---------|
-| <a name="module_labels"></a> [labels](#module\_labels) | pankajyadavdevops/labels/azure | 1.0.2 |
+| <a name="module_labels"></a> [labels](#module\_labels) | https://github.com/pankajyadavdevops/terraform-aws-labels.git | 1.0.2 |
 
 ## Resources
 
